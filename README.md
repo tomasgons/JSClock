@@ -1,2 +1,2 @@
-# JSClock
+# practicing with css and js
  
